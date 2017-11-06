@@ -1,0 +1,29 @@
+#btnuser{
+   padding: 15% 30% !important;
+    margin-top: 4px !important;
+}
+.row {
+    margin-right: 0px !important;
+    margin-left: 8px !important;
+}
+#btncarrito{
+    padding: 6px 14px !important;
+    margin-top: -1px !important;
+}
+#carrito{
+    margin-left: 10px !important;
+    padding-top: 4px;
+}
+
+#login{
+        width: 41% !important;
+    margin-left: 36% !important;
+    margin-top: 27% !important;
+}
+
+#usera{
+        padding-top: 2px !important;
+    margin-top: -10px !important;
+    margin-left: 2px !important;
+}
+

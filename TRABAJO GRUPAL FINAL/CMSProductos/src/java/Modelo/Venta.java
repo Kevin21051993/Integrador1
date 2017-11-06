@@ -1,0 +1,27 @@
+package Modelo;
+
+public class Venta {
+    private int id;
+    private String usuario;
+    private Double total;
+    private String fecha;
+    public Venta(){
+        
+    }
+    
+    public Venta(int id,String usuario,Double total,String fecha){
+        this.id = id;
+        this.usuario = usuario;
+        this.total = total;
+        this.fecha = fecha;
+    }
+
+    public String getUsuario() {return usuario;}
+    public void setUsuario(String usuario) {this.usuario = usuario;}
+    public Double getTotal() {return total;}
+    public void setTotal(Double total) {this.total = total;}
+    public String getFecha() {return fecha;}
+    public void setFecha(String fecha) {this.fecha = fecha;}
+    public int getId() {return id;}
+    public void setId(int id) {this.id = id;}
+}
